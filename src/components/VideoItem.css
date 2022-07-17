@@ -1,0 +1,7 @@
+.thumbnailWrapper {
+  overflow: hidden;
+}
+.thumbnailWrapper img {
+  margin: -10% 0;
+  width: 100%;
+}
